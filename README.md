@@ -43,7 +43,7 @@ Hi,I'm Colton Bonner :snowboarder:, a Software Developer, Afflitate Twitch Strea
 
 
 
-**Community**
+**Communities**
 - devGroup
 - Thinkful Alumni
 - UtahJS
