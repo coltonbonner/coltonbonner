@@ -1,4 +1,4 @@
-### Hello World 👋 It's [Colton!](https://colton-portfolio.vercel.app/)
+### Hello World 👋 It's [Colton!](https://bwre.tech/)
 
 <br/>
 
@@ -39,7 +39,7 @@ Hi,I'm Colton Bonner :snowboarder:, a Software Developer, Afflitate Twitch Strea
 - 💬 Ask me about anything, I love to talk with people.✌
 - 📫 How to reach me: cbonner26118@gmail.com 
 - ⚡ Check out my recent [Clips](https://www.twitch.tv/bwregaming)
-- 📝[Portfolio](https://colton-portfolio.vercel.app/)
+- 📝[Portfolio](https://bwre.tech/)
 
 
 
@@ -58,5 +58,4 @@ Hi,I'm Colton Bonner :snowboarder:, a Software Developer, Afflitate Twitch Strea
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
 ![Coltons' github stats](https://github-readme-stats.vercel.app/api?username=cbonner26118&show_icons=true&hide_border=true)
