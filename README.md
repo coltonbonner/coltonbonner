@@ -34,7 +34,7 @@ Hi,I'm Colton Bonner :snowboarder:, a Software Developer, Afflitate Twitch Strea
 **Talking about Personal Stuffs:**
 
 - :telephone: I’m currently an AutoCAD drafting engineer for telecom.
-- 🌱 I’m currently learning Angular, Typescript and MongoDB.
+- 🌱 I’m currently learning Next.js, Gatsby.js, and MongoDB.
 - 👯 Creator of devGroup, a discord community of developers.
 - 💬 Ask me about anything, I love to talk with people.✌
 - 📫 How to reach me: cbonner26118@gmail.com 
