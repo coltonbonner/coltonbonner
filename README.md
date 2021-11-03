@@ -3,7 +3,7 @@
 <br/>
 
 
-<a href="https://twitter.com/bwregaming">
+<a href="https://twitter.com/bwreDev">
 <img align="left" alt="Colton Bonner | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/coltonbonner/">
@@ -33,12 +33,12 @@ Hi,I'm Colton Bonner :snowboarder:, a Software Developer, Afflitate Twitch Strea
 
 **Talking about Personal Stuffs:**
 
-- :telephone: I’m currently an AutoCAD drafting engineer for telecom.
-- 🌱 I’m currently learning Next.js, Gatsby.js, and MongoDB.
+- :fork_and_knife: I’m currently working as a restaurant Manager.
+- 🌱 I’m currently learning Next.js, Gatsby.js, MongoDB, and Node.js.
 - 👯 Creator of devGroup, a discord community of developers.
 - 💬 Ask me about anything, I love to talk with people.✌
 - 📫 How to reach me: cbonner26118@gmail.com 
-- ⚡ Check out my recent [Clips](https://www.twitch.tv/bwregaming)
+- ⚡ Check out my recent Twitch [Clips](https://www.twitch.tv/bwregaming)
 - 📝[Portfolio](https://bwre.tech/)
 
 
