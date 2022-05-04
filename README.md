@@ -34,10 +34,10 @@ Hi,I'm Colton Bonner :snowboarder:, a Software Developer, Afflitate Twitch Strea
 **Talking about Personal Stuffs:**
 
 - :fork_and_knife: I’m currently working as a restaurant Manager.
-- 🌱 I’m currently learning Next.js, Gatsby.js, MongoDB, and Node.js.
-- 👯 Creator of devGroup, a discord community of developers.
+- 🌱 I’m currently learning Next.js, Vue.js, PostgreSQL, and Node.js.
+- 👯 Creator of devGroup, a discord community for developers.
 - 💬 Ask me about anything, I love to talk with people.✌
-- 📫 How to reach me: cbonner26118@gmail.com 
+- 📫 How to reach me: colton@bwre.tech 
 - ⚡ Check out my recent Twitch [Clips](https://www.twitch.tv/bwregaming)
 - 📝[Portfolio](https://bwre.tech/)
 
