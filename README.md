@@ -6,19 +6,19 @@
 <img align="left" alt="Colton Bonner | Twitter" width="22px" src="./images/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/coltonbonner/">
-<img align="left" alt="Colton Bonner" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="Colton Bonner" width="22px" src="./images/linkedin.svg" />
 </a>
 <a href="https://www.twitch.tv/bwregaming">
-<img align="left" alt="Colton Bonner aka BwreGaming" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/twitch.svg" />
+<img align="left" alt="Colton Bonner aka BwreGaming" width="22px" src="./images/twitch-icon.svg" />
 </a>
 <a href="https://dev.to/cbonner26118">
-<img align="left" alt="Colton Bonner" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/dev-dot-to.svg" />
+<img align="left" alt="Colton Bonner" width="22px" src="./images/devto-icon.svg" />
 </a>
 <a href="https://www.instagram.com/bwreofpirates/">
-<img align="left" alt="Colton Bonner" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="left" alt="Colton Bonner" width="22px" src="./images/instagram-color.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UC4oSO17fKVDAr4QjI6hpdIw">
-<img align="left" alt="Colton Bonner | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+<img align="left" alt="Colton Bonner | Twitter" width="22px" src="./images/youtube-icon.svg" />
 </a>
 <br />
 
