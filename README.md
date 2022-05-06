@@ -4,7 +4,7 @@
 
 
 <a href="https://twitter.com/bwreDev">
-<img align="left" alt="Colton Bonner | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" alt="Colton Bonner | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v2/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/coltonbonner/">
 <img align="left" alt="Colton Bonner" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
