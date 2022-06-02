@@ -30,7 +30,7 @@ Hi,I'm Colton Bonner :snowboarder:, a Software Developer, Afflitate Twitch Strea
 
 **Talking about Personal Stuffs:**
 
-- :fork_and_knife: I’m currently working as a restaurant Manager.
+- 👨‍💻 I’m currently working as a Software Engineer for [Bootpack Digital](https://bootpackdigital.com/)
 - 🌱 I’m currently learning Next.js, Vue.js, PostgreSQL, and Node.js.
 - 👯 Creator of devGroup, a discord community for developers.
 - 💬 Ask me about anything, I love to talk with people.✌
