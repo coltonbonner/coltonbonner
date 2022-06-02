@@ -34,16 +34,16 @@ Hi,I'm Colton Bonner :snowboarder:, a Software Developer, Afflitate Twitch Strea
 - 🌱 I’m currently learning Next.js, Vue.js, PostgreSQL, and Node.js.
 - 👯 Creator of devGroup, a discord community for developers.
 - 💬 Ask me about anything, I love to talk with people.✌
-- 📫 How to reach me: colton@bwre.tech
+- 📫 How to reach me: [colton@bwre.tech](mailto:colton@bwre.tech)
 - ⚡ Check out my recent Twitch [Clips](https://www.twitch.tv/bwregaming)
 - 📝[Portfolio](https://bwre.tech/)
 
 **Communities**
 
-- devGroup
+- [devGroup](https://discord.com/channels/750471041624571945/753043919234662520)
 - Thinkful Alumni
 - UtahJS
-- Distilled Gaming
+- [Distilled Gaming](https://discord.com/channels/200704939415175168/225297744531685376)
 
 **Languages and Tools:**
 
