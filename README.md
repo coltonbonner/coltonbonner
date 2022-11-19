@@ -11,15 +11,6 @@
 <a href="https://www.twitch.tv/bwregaming">
 <img align="left" alt="Colton Bonner aka BwreGaming" width="22px" src="./images/twitch-icon.svg" />
 </a>
-<a href="https://dev.to/cbonner26118">
-<img align="left" alt="Colton Bonner" width="22px" src="./images/devto-icon.svg" />
-</a>
-<a href="https://www.instagram.com/bwreofpirates/">
-<img align="left" alt="Colton Bonner" width="22px" src="./images/instagram-color.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UC4oSO17fKVDAr4QjI6hpdIw">
-<img align="left" alt="Colton Bonner | Twitter" width="22px" src="./images/youtube-icon.svg" />
-</a>
 <br />
 
 <br />
@@ -31,9 +22,9 @@ Hi,I'm Colton Bonner :snowboarder:, a Software Developer, Afflitate Twitch Strea
 **Talking about Personal Stuffs:**
 
 - 👨‍💻 I’m currently working as a Software Engineer for [Bootpack Digital](https://bootpackdigital.com/)
-- 🌱 I’m currently learning Next.js, Vue.js, PostgreSQL, and Node.js.
+- 🌱 I’m currently using Next.js & TailwindCSS.
 - 👯 Creator of devGroup, a discord community for developers.
-- 💬 Ask me about anything, I love to talk with people.✌
+- 💬 Ask me about anything, I love to talk with people.
 - 📫 How to reach me: [colton@bwre.tech](mailto:colton@bwre.tech)
 - ⚡ Check out my recent Twitch [Clips](https://www.twitch.tv/bwregaming)
 - 📝[Portfolio](https://bwre.tech/)
