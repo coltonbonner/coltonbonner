@@ -45,3 +45,4 @@ Hi,I'm Colton Bonner :snowboarder:, a Software Developer, [Afflitate Twitch Stre
 <br />
 
 ![Coltons' github stats](https://github-readme-stats.vercel.app/api?username=bwreDev&show_icons=true&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bwreDev&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
