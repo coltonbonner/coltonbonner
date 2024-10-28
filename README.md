@@ -21,7 +21,6 @@ Hi,I'm Colton Bonner :snowboarder:, a Software Developer, [Afflitate Twitch Stre
 
 **Talking about Personal Stuffs:**
 
-- 👨‍💻 I’m currently working as a Software Engineer for [Bootpack Digital](https://bootpackdigital.com/)
 - 🌱 I’m currently using Next.js & TailwindCSS.
 - 👯 Creator of devGroup, a discord community for developers (email [colton@bwre.tech](mailto:colton@bwre.tech) for an invite!).
 - 💬 Ask me about anything, I love to talk with people.
