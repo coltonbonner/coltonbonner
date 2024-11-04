@@ -2,13 +2,10 @@
 
 <br/>
 
-<a href="https://twitter.com/bwreDev">
-<img align="left" alt="Colton Bonner | Twitter" width="22px" src="./images/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/coltonbonner/">
 <img align="left" alt="Colton Bonner" width="22px" src="./images/linkedin.svg" />
 </a>
-<a href="https://www.twitch.tv/bwregaming">
+<a href="https://www.twitch.tv/bwredev">
 <img align="left" alt="Colton Bonner aka BwreGaming" width="22px" src="./images/twitch-icon.svg" />
 </a>
 <br />
@@ -42,5 +39,5 @@ Hi,I'm Colton Bonner :snowboarder:, a Software Developer, [Afflitate Twitch Stre
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bwreDev&hide_progress=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Colton's GitHub stats](https://github-readme-stats.vercel.app/api?username=bwreDev&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coltonbonner&hide_progress=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Colton's GitHub stats](https://github-readme-stats.vercel.app/api?username=coltonbonner&show_icons=true&theme=radical)
