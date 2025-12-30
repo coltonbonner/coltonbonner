@@ -15,7 +15,9 @@ I’m a full-stack developer, currently working on a web-based application that 
 
 - Frontend: Modern React, Next.js, Tanstack Query & Table, TailwindCSS, and Motion animations for building responsive, interactive, and fun UI
 - Backend: Node.js, PostgreSQL & PrismaORM, custom API's & 3rd party API's
-  
+
+**Contact**
+
 - [Portfolio](https://www.coltonbonner.com/)
 - [me@coltonbonner.com](mailto:me@coltonbonner.com)
 - [![LinkedIn](./images/linkedin.svg)]([target_url](https://www.linkedin.com/in/coltonbonner/))
