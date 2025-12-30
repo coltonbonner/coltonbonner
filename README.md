@@ -1,22 +1,22 @@
-### Hello World 👋 It's [Colton!](https://www.coltonbonner.com/)
+# Hi there I'm [Colton](https://www.coltonbonner.com/)
 
-<br/>
+[![LinkedIn](./images/linkedin.svg)]([target_url](https://www.linkedin.com/in/coltonbonner/))
 
-<a href="https://www.linkedin.com/in/coltonbonner/">
-<img align="left" alt="Colton Bonner" width="22px" src="./images/linkedin.svg" />
-</a>
-<br />
 
-<br />
 
-Hi,I'm Colton Bonner :snowboarder:, a Software Developer, Father, and a permanent student.
+Hi,I'm Colton Bonner, a Software Developer, Father, and a permanent student.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/lkceXNDw4Agryfrwz8/giphy.gif" />
 
 
-- I’m currently working with modern web technologies to expand data based analytics.
-- 📫 How to reach me: [me@coltonbonner.com](mailto:me@coltonbonner.com)
-- 📝[Portfolio](https://www.coltonbonner.com/)
+- I’m a full-stack developer, primarily working on a web-based application that interfaces with power monitoring equipment, various API's, and services.
+
+## What I work with currently
+- Frontend: Modern React, Next.js, Tanstack Query & Table, TailwindCSS, and Motion animations for building responsive, interactive, and fun UI
+- Backend: Node.js, PostgreSQL & PrismaORM, custom API's & 3rd party API's
+  
+- How to reach me: [me@coltonbonner.com](mailto:me@coltonbonner.com)
+- [Portfolio](https://www.coltonbonner.com/)
 
 **Communities**
 
