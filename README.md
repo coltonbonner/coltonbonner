@@ -4,7 +4,7 @@
 
 
 
-Hi,I'm Colton Bonner, a Software Developer, Father, and a permanent student.
+Hi, I'm Colton Bonner, a Software Developer, Father, and a permanent student.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/lkceXNDw4Agryfrwz8/giphy.gif" />
 
