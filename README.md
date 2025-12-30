@@ -17,9 +17,10 @@ I’m a full-stack developer, currently working on a web-based application that 
 
 - [Portfolio](https://www.coltonbonner.com/)
 - [me@coltonbonner.com](mailto:me@coltonbonner.com)
-[![LinkedIn](./images/linkedin.svg)]([target_url](https://www.linkedin.com/in/coltonbonner/))
 
 **Communities**
 
 - [UtahJS](https://utahjs.com/)
 - [Virtual Coffee](https://virtualcoffee.io/)
+
+[![LinkedIn](./images/linkedin.svg)]([target_url](https://www.linkedin.com/in/coltonbonner/))
