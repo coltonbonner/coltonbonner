@@ -9,7 +9,7 @@ Hi, I'm Colton Bonner, a Software Developer, Father, and a permanent student.
 <img align="right" alt="GIF" src="https://media.giphy.com/media/lkceXNDw4Agryfrwz8/giphy.gif" />
 
 
-- I’m a full-stack developer, primarily working on a web-based application that interfaces with power monitoring equipment, various API's, and services.
+I’m a full-stack developer, primarily working on a web-based application that interfaces with power monitoring equipment, various API's, and services.
 
 ## What I work with currently
 - Frontend: Modern React, Next.js, Tanstack Query & Table, TailwindCSS, and Motion animations for building responsive, interactive, and fun UI
