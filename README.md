@@ -1,9 +1,6 @@
 # Hi there I'm [Colton](https://www.coltonbonner.com/)
 
 
-
-
-
 Hi, I'm Colton Bonner, a Software Developer, Father, and a permanent student.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/lkceXNDw4Agryfrwz8/giphy.gif" />
@@ -20,7 +17,7 @@ I’m a full-stack developer, currently working on a web-based application that 
 
 - [Portfolio](https://www.coltonbonner.com/)
 - [me@coltonbonner.com](mailto:me@coltonbonner.com)
-- [![LinkedIn](./images/linkedin.svg)]([target_url](https://www.linkedin.com/in/coltonbonner/))
+[![LinkedIn](./images/linkedin.svg)]([target_url](https://www.linkedin.com/in/coltonbonner/))
 
 **Communities**
 
